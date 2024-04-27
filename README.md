@@ -11,4 +11,12 @@ For a very limited time we are allowing new members to join the pool.
 ## Why would you open access to this? 
 Validators.  We need more validators.  They are our only limiting factor right now.  Over the next few months, we will have accrued enough SOL to have a nice fleet, but we need them NOW!  This is why we are opening access to a select few applicants.  
 
-![alt text](https://ibb.co/HNzfHfx)
+![Pic](https://imgur.com/a/uWGG9Fs)
+
+
+
+<p align="center">
+  <img src="![Pic](https://imgur.com/a/uWGG9Fs)" width="350" title="hover text">
+</p>
+
+
