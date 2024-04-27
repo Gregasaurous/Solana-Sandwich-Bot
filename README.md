@@ -7,5 +7,8 @@ After two months, we have successfully cloned Jito's MempoolStream! Currently we
 For a very limited time we are allowing new members to join the pool. 
 * Contact @DevAtWar on Telegram for information
 
+
 ## Why would you open access to this? 
 Validators.  We need more validators.  They are our only limiting factor right now.  Over the next few months, we will have accrued enough SOL to have a nice fleet, but we need them NOW!  This is why we are opening access to a select few applicants.  
+
+![alt text](https://ibb.co/HNzfHfx)
