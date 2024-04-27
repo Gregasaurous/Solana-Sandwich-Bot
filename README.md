@@ -5,7 +5,7 @@ After two months, we have successfully cloned Jito's MempoolStream! Currently we
 ## ACCESS NOW OPEN
 
 For a very limited time we are allowing new members to join the pool. 
-* Contact @WageRobot on Discord for more info!  Serious inqueries only
+* Contact @ScuffedData on Telegram for more info!  Serious inqueries only
 * Newbie friendly - Our bot does just about everything
 * Running validators?  We want them!  Get the highest tips when  pointed towards our pool!
 * Get 1 day access for a small fee to test the product!!
