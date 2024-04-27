@@ -1,9 +1,11 @@
-# Solana-Sandwich-Bot
-
 # MEV MUNCHER v1.0 - A Solana Sandwich Bot
 
-## CUSTOM RPC with cloned Jito Mempool 
+After two months, we have successfully cloned Jito's MempoolStream! Currently we are seeing roughly 10000 transactions per minute come into our mempool.  About ~30% of those transactions are swaps.  And ~10% of those swaps can be sandwiched.  That's 300 transactions per minute we can sandwich.  And that number is growing every day. 
 
-* Access is extremely limited as for now.
-* Will be accepting applications in the near future.
-  
+## ACCESS NOW OPEN
+
+For a very limited time we are allowing new members to join the pool. 
+* Contact @DevAtWar on Telegram for information
+
+## Why would you open access to this? 
+Validators.  We need more validators.  They are our only limiting factor right now.  Over the next few months, we will have accrued enough SOL to have a nice fleet, but we need them NOW!  This is why we are opening access to a select few applicants.  
